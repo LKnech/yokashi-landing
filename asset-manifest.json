@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yokashi-landing/static/css/main.4bc68bcb.css",
-    "main.js": "/yokashi-landing/static/js/main.b25d36a6.js",
+    "main.css": "/yokashi-landing/static/css/main.a4565b4a.css",
+    "main.js": "/yokashi-landing/static/js/main.f7c2988a.js",
     "static/js/453.d0b155cf.chunk.js": "/yokashi-landing/static/js/453.d0b155cf.chunk.js",
     "static/media/logo.svg": "/yokashi-landing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/yokashi-landing/index.html",
-    "main.4bc68bcb.css.map": "/yokashi-landing/static/css/main.4bc68bcb.css.map",
-    "main.b25d36a6.js.map": "/yokashi-landing/static/js/main.b25d36a6.js.map",
+    "main.a4565b4a.css.map": "/yokashi-landing/static/css/main.a4565b4a.css.map",
+    "main.f7c2988a.js.map": "/yokashi-landing/static/js/main.f7c2988a.js.map",
     "453.d0b155cf.chunk.js.map": "/yokashi-landing/static/js/453.d0b155cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bc68bcb.css",
-    "static/js/main.b25d36a6.js"
+    "static/css/main.a4565b4a.css",
+    "static/js/main.f7c2988a.js"
   ]
 }
